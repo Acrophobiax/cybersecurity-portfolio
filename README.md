@@ -1,34 +1,37 @@
-# Cybersecurity & IT Portfolio
+# IT & Cybersecurity Portfolio
 
-Hands-on cybersecurity and IT/Helpdesk labs and projects demonstrating practical security skills in networking, system security, and threat detection.
+Hands-on portfolio demonstrating practical experience in IT support, system administration, and foundational cybersecurity concepts.
 
 ## About Me
-Computer Science student focused on cybersecurity. Building practical experience in system analysis, vulnerability assessment, and security monitoring through hands-on labs.
 
-## IT & Helpdesk Projects
+Computer Science student with a focus on cybersecurity, currently building real-world technical skills through home labs and hands-on projects. This portfolio reflects both IT support capabilities and security-focused learning.
 
-### Active Directory Lab
-...
+## What You'll Find Here
 
-### Ticketing System Lab
-...
+This repository is organized into two main areas:
 
-### Endpoint Management Lab
-...
+### IT / Helpdesk Labs
 
-### Network Analysis Lab
+Projects focused on core IT skills such as:
 
-## Cybersecurity Projects
+* Active Directory and user management
+* Ticketing systems and incident handling
+* Endpoint configuration and system administration
+* Troubleshooting and system operations
 
-### Network Enumeration Lab
-Identified hosts, open ports, and services in a controlled lab network using Nmap and Wireshark.
+These labs simulate real-world IT environments and workflows commonly found in helpdesk and support roles.
 
-### Vulnerability Assessment Lab
-Scanned and exploited known vulnerabilities in a deliberately vulnerable system to understand attack paths and impact.
+### Cybersecurity Labs
 
-### Detection Lab
-Generated and analyzed system logs to identify suspicious activity and understand basic security monitoring concepts.
+Projects focused on foundational cybersecurity skills such as:
 
----
+* Network enumeration and scanning
+* Vulnerability assessment
+* Log analysis and detection
+* Basic offensive and defensive techniques
 
-More projects in progress.
+These labs demonstrate an understanding of security concepts and tools used in real-world scenarios.
+
+## Purpose
+
+The goal of this portfolio is to document hands-on learning, demonstrate technical capability, and showcase readiness for entry-level IT roles while building toward a future career in cybersecurity.
